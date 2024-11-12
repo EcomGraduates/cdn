@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portal/ui/static/css/main.c78572eb.min.css",
-    "main.js": "/portal/ui/static/js/main.62e6456e.min.js",
-    "runtime.js": "/portal/ui/static/js/runtime.b820e465.min.js",
-    "vendors.js": "/portal/ui/static/js/vendors.d7aab114.min.js",
+    "main.css": "/portal/ui/static/css/main.2f7f99e3.min.css",
+    "main.js": "/portal/ui/static/js/main.27c2b01a.min.js",
+    "runtime.js": "/portal/ui/static/js/runtime.16818e22.min.js",
+    "vendors.js": "/portal/ui/static/js/vendors.9d248718.min.js",
     "index.html": "/portal/ui/index.html",
-    "main.62e6456e.min.js.map": "/portal/ui/static/js/main.62e6456e.min.js.map",
-    "runtime.b820e465.min.js.map": "/portal/ui/static/js/runtime.b820e465.min.js.map",
-    "vendors.d7aab114.min.js.map": "/portal/ui/static/js/vendors.d7aab114.min.js.map"
+    "main.27c2b01a.min.js.map": "/portal/ui/static/js/main.27c2b01a.min.js.map",
+    "runtime.16818e22.min.js.map": "/portal/ui/static/js/runtime.16818e22.min.js.map",
+    "vendors.9d248718.min.js.map": "/portal/ui/static/js/vendors.9d248718.min.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.b820e465.min.js",
-    "static/js/vendors.d7aab114.min.js",
-    "static/css/main.c78572eb.min.css",
-    "static/js/main.62e6456e.min.js"
+    "static/js/runtime.16818e22.min.js",
+    "static/js/vendors.9d248718.min.js",
+    "static/css/main.2f7f99e3.min.css",
+    "static/js/main.27c2b01a.min.js"
   ]
 }
